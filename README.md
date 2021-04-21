@@ -4,7 +4,7 @@ Este repo, es para practicar con los formularios. Con la propiedad de ```<form>`
 
 **1.-** Formmulario de Login vertical
 
-_Este formulario es el más simple de todos no tiene css y usamos puro HTML para poder resolverlo. Tiene que quedar de la siguiente manera:
+_Este formulario es el más simple de todos no tiene **CSS** y usamos puro HTML para poder resolverlo. Tiene que quedar de la siguiente manera:
 ![image](https://user-images.githubusercontent.com/58775176/115543188-6271ed80-a2a1-11eb-9360-f70bb5459f1f.png)_
 
 **2.-** Formulario de login en una linea
